@@ -9,7 +9,7 @@ void switch(int *a, int *b)
 
 int main()
 {
-	int x = 5;
+	int x = 7;
 	int y = 10;
 	int z = x + y;
 
