@@ -9,8 +9,9 @@ void switch(int *a, int *b)
 
 int main()
 {
-	int x = 6;
+	int x = 7;
 	int y = 10;
+	int z = x + y;
 
 	printf("Hello, World!\n");
 	return 0;
